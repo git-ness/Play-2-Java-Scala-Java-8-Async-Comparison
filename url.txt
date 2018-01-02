@@ -1,0 +1,7 @@
+https://github.com/btgrant-76/Play-2-Java-Scala-Java-8-Async-Comparison
+
+To run: ./activator run
+Make sure you're on Java 8
+
+To do a 'mvn clean install' in activator
+	./activator clean dist

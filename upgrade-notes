@@ -1,0 +1,3 @@
+When you less ./target/scala-2.11/routes/main/router/Routes.scala it tells you the path to the source, which is: 
+
+/Users/ehill/pulled-github-projects/Play-2-2.5upgrade/Play-2-JS-2.5/conf/routes
